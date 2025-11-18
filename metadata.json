@@ -1,0 +1,7 @@
+{
+  "name": "فخامة - Fakhama",
+  "description": "متجر إلكتروني سعودي فاخر بتصميم عصري وتجربة مستخدم مميزة. Premium Saudi E-commerce experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
